@@ -1,3 +1,3 @@
 # Shalla
 
-Demo : https://shalla.netlify.app/
+Visit Demo : [here](https://shalla.netlify.app/)
